@@ -1,0 +1,15 @@
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\bin\Debug\net7.0\HoweWork1-(continuse and break).exe
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\bin\Debug\net7.0\HoweWork1-(continuse and break).deps.json
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\bin\Debug\net7.0\HoweWork1-(continuse and break).runtimeconfig.json
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\bin\Debug\net7.0\HoweWork1-(continuse and break).dll
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\bin\Debug\net7.0\HoweWork1-(continuse and break).pdb
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).AssemblyInfoInputs.cache
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).AssemblyInfo.cs
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).csproj.CoreCompileInputs.cache
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).dll
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\refint\HoweWork1-(continuse and break).dll
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).pdb
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).genruntimeconfig.cache
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\ref\HoweWork1-(continuse and break).dll
+D:\OJT backend\ConsoleApp1Day1\HoweWork1-(continuse and break)\obj\Debug\net7.0\HoweWork1-(continuse and break).sourcelink.json

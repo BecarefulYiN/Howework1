@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HoweWork1-(continuse and break)/1.0.0": {
+        "runtime": {
+          "HoweWork1-(continuse and break).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HoweWork1-(continuse and break)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
